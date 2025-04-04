@@ -1,0 +1,19 @@
+body{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+h1, p {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+img{
+    height: 520px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 25px;
+}
